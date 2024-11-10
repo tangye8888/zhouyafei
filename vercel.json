@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "public": true,
+  "cleanUrls": true,
+  "trailingSlash": false,
+  "github": {
+    "silent": true
+  },
+  "framework": null,
+  "outputDirectory": ".",
+  "buildCommand": null,
+  "routes": [
+    { "src": "/", "dest": "/welcome.html" }
+  ]
+} 
